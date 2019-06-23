@@ -42,4 +42,4 @@ bot.on('message' , message => {
   })
   
 })
-bot.login('NTkyMDAwNjAxMjUyOTU0MTMz.XQ49tw.H2hOAad8WTNYDQ6ncCrpRD5vwXU')
+bot.login(prosses.env.TOKEN)
